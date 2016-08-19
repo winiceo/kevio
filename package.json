@@ -1,7 +1,7 @@
 {
   "name": "kevio",
-  "description": "REST API and web application framework, built on Nodejs, Express, and Mongoose",
-  "version": "0.0.1",
+  "description": "baas",
+  "version": "0.0.2",
   "author": "leven",
   "license": "MIT",
   "engines": {
@@ -119,10 +119,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/winiceo/leven.git"
+    "url": "https://github.com/winiceo/kevio.git"
   },
   "bugs": {
-    "url": "https://github.com/winiceo/leven/issues"
+    "url": "https://github.com/winiceo/kevio/issues"
   },
-  "homepage": "https://github.com/wniceo/leven"
+  "homepage": "https://github.com/wniceo/kevio"
 }
