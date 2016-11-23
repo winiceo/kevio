@@ -1,6 +1,6 @@
 import async from 'async';
 import crypto from 'crypto';
-import uuid from 'node-uuid';
+import uuid from 'uuid';
 import php from 'phpjs';
 import _ from 'underscore';
 
